@@ -366,3 +366,168 @@ input[type="date"]::-webkit-calendar-picker-indicator{
     width: 100%;
     margin-top: 4.58vw;
 }
+@media only screen and (max-width:430px){
+    #cuchito{
+        display: block;
+        border: transparent solid 0.1vw;
+        margin-bottom: 120vw;
+    }
+    .formulario{
+        width: 90vw;
+        height: 132vw;
+    }
+    #consulta{
+        width: 80vw;
+        height: 14vw;
+        font-size: 5vw;
+    }
+    #porfavor{
+        width: 80vw;
+        font-size: 3vw;
+        height: 10vw;
+    }
+    #labels{
+        text-align: center;
+        width: 80vw;
+        height: auto;
+        margin-top: 3vw;
+        margin-left: 5vw;
+        font-size: 4vw;
+    }
+    .seleccion{
+        width: 80vw;
+        height: 7vw;
+        margin-left: 5vw;
+        font-size: 3vw;
+    }
+    #documento{
+        width: 79vw;
+        height: 7vw;
+        margin-left: 5vw;
+        font-size: 3vw;
+    }
+    #nombre{
+        width: 79vw;
+        height: 7vw;
+        margin-left: 5vw;
+        font-size: 3vw;
+    }
+    #apellido{
+        width: 79vw;
+        height: 7vw;
+        margin-left: 5vw;
+        font-size: 3vw;
+    }
+    #fecha{
+        width: 79vw;
+        height: 7vw;
+        margin-left: 5vw;
+        font-size: 3vw;
+    }
+    input[type="date"]::-webkit-calendar-picker-indicator{
+        font-size: 4vw;
+    }
+    #movil{
+        width: 79vw;
+        height: 7vw;
+        margin-left: 5vw;
+        font-size: 3vw;
+    }
+    #consul{
+        margin: 3vw auto;
+        width: 20vw;
+        height: 6vw;
+        font-size: 3vw;
+    }
+    #ingreso{
+        width: auto;
+        text-align: center;
+        margin: 5vw auto;
+        font-size: 5vw;
+    }
+    #situacion{
+        margin: 2vw auto;
+        height: auto;
+        width: auto;
+        font-size: 3vw;
+    }
+    #conocer{
+        margin: 3vw auto;
+        width: 12vw;
+        height: 3vw;
+        display: flex;
+        align-items: center;
+        font-size: 2vw;
+    }
+    #quees{
+        margin: auto;
+        width: auto;
+        height: auto;
+        font-size: 4vw;
+        text-align: center;
+    }
+    #grid1{
+        grid-template-columns: auto;
+        font-size: 3vw;
+        grid-template-rows: 17vw 19vw;
+        gap: 6vw;
+    }
+    #grid1 img{
+        width: 80vw;
+        height: 70vw;
+        grid-column: 1/2;
+        grid-row: 3/4;
+        margin: auto;
+    }
+    #conocer1{
+        margin: auto;
+        width: 31vw;
+        font-size: 2.5vw;
+        height: auto;
+    }
+    #etapas{
+        margin: 10vw auto;
+        text-align: center;
+        font-size: 6vw;
+    }
+    #grid2{
+        grid-template-columns: auto;
+        grid-template-rows: auto auto auto;
+    }
+    #etapa{
+        font-size: 7vw;
+    }
+    #fechas{
+        font-size: 5vw;
+    }
+    #bancos{
+        font-size: 4vw;
+    }
+    #cajasocial{
+        margin-top: 5vw;
+    }
+    #preguntas1{
+        margin: auto;
+        width: 23vw;
+        font-size: 2.5vw;
+        height: auto;
+    }
+    #preguntas{
+        font-size: 6vw;
+    }
+    #circulos{
+        width: 7vw;
+        height: 7vw;
+        margin: 1vw auto;
+        font-size: 3vw;
+    }
+    #italic{
+        font-size: 3vw;
+    }
+    #textos{
+        font-size: 2.5vw;
+    }
+    #vermas{
+        font-size: 2vw;
+    }
+}
