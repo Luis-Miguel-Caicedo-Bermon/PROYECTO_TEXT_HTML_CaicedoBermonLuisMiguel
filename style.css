@@ -370,66 +370,68 @@ input[type="date"]::-webkit-calendar-picker-indicator{
     #cuchito{
         display: block;
         border: transparent solid 0.1vw;
-        margin-bottom: 120vw;
+        margin-bottom: 90vw;
     }
     .formulario{
-        width: 90vw;
-        height: 132vw;
+        margin: 5vw auto;
+        width: 70vw;
+        height: 100vw;
     }
     #consulta{
-        width: 80vw;
+        margin: auto;
+        width: 50vw;
         height: 14vw;
-        font-size: 5vw;
+        font-size: 4vw;
     }
     #porfavor{
-        width: 80vw;
-        font-size: 3vw;
+        margin: auto;
+        width: 55vw;
+        font-size: 2.5vw;
         height: 10vw;
     }
     #labels{
         text-align: center;
-        width: 80vw;
+        width: 50vw;
         height: auto;
-        margin-top: 3vw;
-        margin-left: 5vw;
-        font-size: 4vw;
+        margin: 1vw auto;
+        font-size: 2vw;
     }
     .seleccion{
-        width: 80vw;
-        height: 7vw;
+        width: 60vw;
+        height: 5vw;
         margin-left: 5vw;
-        font-size: 3vw;
+        font-size: 2vw;
     }
     #documento{
-        width: 79vw;
-        height: 7vw;
+        width: 58.5vw;
+        height: 5vw;
         margin-left: 5vw;
         font-size: 3vw;
     }
     #nombre{
-        width: 79vw;
-        height: 7vw;
+        width: 58.5vw;
+        height: 5vw;
         margin-left: 5vw;
         font-size: 3vw;
     }
     #apellido{
-        width: 79vw;
-        height: 7vw;
+        width: 58.5vw;
+        height: 5vw;
         margin-left: 5vw;
         font-size: 3vw;
     }
     #fecha{
-        width: 79vw;
-        height: 7vw;
+        width: 58.5vw;
+        height: 5vw;
         margin-left: 5vw;
-        font-size: 3vw;
+        font-size: 2vw;
     }
     input[type="date"]::-webkit-calendar-picker-indicator{
-        font-size: 4vw;
+        font-size: 3vw;
     }
     #movil{
-        width: 79vw;
-        height: 7vw;
+        width: 58.5vw;
+        height: 5vw;
         margin-left: 5vw;
         font-size: 3vw;
     }
